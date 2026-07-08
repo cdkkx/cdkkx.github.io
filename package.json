@@ -1,0 +1,14 @@
+{
+  "name": "my-awesome-blog",
+  "version": "1.0.0",
+  "description": "My personal blog built with VitePress",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0",
+    "vue": "^3.0.0"
+  }
+}
