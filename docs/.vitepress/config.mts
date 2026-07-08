@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   base: '/',
-  title: "My Blog",
-  description: "Web 后端与安全技术分享",
+  title: "cdkkx's Blog",
+  description: "Personal Blog",
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
@@ -11,7 +11,7 @@ export default defineConfig({
     ],
     sidebar: [
       {
-        text: '技术文章',
+        text: '文章列表',
         items: [
           { text: '第一篇博客', link: '/posts/first-post' }
         ]

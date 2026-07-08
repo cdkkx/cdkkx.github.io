@@ -2,22 +2,14 @@
 layout: home
 
 hero:
-  name: "My Tech Blog"
-  text: "专注于 Web 后端与安全"
-  tagline: "分享技术，记录成长"
+  name: "cdkkx"
+  text: "记录思考，分享生活"
+  tagline: "Stay simple, stay focused."
   actions:
     - theme: brand
-      text: 开始阅读
+      text: 进入博客
       link: /posts/first-post
     - theme: alt
-      text: 在 GitHub 上查看
+      text: GitHub
       link: https://github.com/cdkkx
-
-features:
-  - title: 后端开发
-    details: Python Flask, Java Spring Security 等深度解析。
-  - title: 网络安全
-    details: Electron 安全、IPC 漏洞挖掘与 XSS 攻击链分析。
-  - title: 插件开发
-    details: Burp Suite 插件 (Montoya API) 开发经验分享。
 ---
