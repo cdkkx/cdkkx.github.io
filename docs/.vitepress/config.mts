@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/',
   title: "My Blog",
   description: "Web 后端与安全技术分享",
   themeConfig: {
