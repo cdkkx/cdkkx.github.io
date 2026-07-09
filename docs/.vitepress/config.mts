@@ -20,11 +20,11 @@ export default defineConfig({
       {
         text: 'Security Reports',
         items: [
-          { text: 'GHSA-g443-8869-6g52 (SQLi)', link: '/posts/GHSA-g443-8869-6g52' },
-          { text: 'GHSA-233f-2p5c-vfgw (RCE)', link: '/posts/GHSA-233f-2p5c-vfgw' },
-          { text: 'GHSA-xrv3-wg8v-w8q8 (RCE)', link: '/posts/GHSA-xrv3-wg8v-w8q8' },
-          { text: 'GHSA-h8p9-prrx-jx6r (RCE)', link: '/posts/GHSA-h8p9-prrx-jx6r' },
-          { text: 'VE-0086 (Unauth SQLi)', link: '/posts/VE-0086' }
+          { text: 'SQL Injection in admin/modules.php', link: '/posts/GHSA-g443-8869-6g52' },
+          { text: 'RCE via Unsafe eval()', link: '/posts/GHSA-233f-2p5c-vfgw' },
+          { text: 'RCE via Unsafe Dynamic Function Call', link: '/posts/GHSA-xrv3-wg8v-w8q8' },
+          { text: 'RCE via Arbitrary File Write', link: '/posts/GHSA-h8p9-prrx-jx6r' },
+          { text: 'Unauthenticated SQL Injection', link: '/posts/VE-0086' }
         ]
       }
     ],
