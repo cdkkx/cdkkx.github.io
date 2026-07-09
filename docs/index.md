@@ -3,11 +3,11 @@ layout: home
 
 hero:
   name: "cdkkx"
-  text: "记录思考，分享生活"
+  text: "Thoughts and Life"
   tagline: "Stay simple, stay focused."
   actions:
     - theme: brand
-      text: 进入博客
+      text: Enter Blog
       link: /posts/first-post
     - theme: alt
       text: GitHub

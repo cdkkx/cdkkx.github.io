@@ -1,23 +1,23 @@
-# 我的第一篇博客
+# My First Blog Post
 
-欢迎来到我的个人博客！
+Welcome to my personal blog!
 
-这里主要分享关于 **Web 后端** 和 **网络安全** 的相关内容。
+Here, I mainly share content related to **Web Backend** and **Cybersecurity**.
 
-## 为什么选择 VitePress？
+## Why VitePress?
 
-1. **速度快**：基于 Vite，毫秒级热更新。
-2. **Markdown 增强**：支持 Vue 组件。
-3. **极简**：专注内容编写。
+1. **Fast**: Based on Vite, millisecond-level hot updates.
+2. **Markdown Enhancement**: Supports Vue components.
+3. **Minimalist**: Focus on writing content.
 
-## 接下来要做什么？
+## What's Next?
 
-- [ ] 配置 GitHub Actions 自动部署。
-- [ ] 自定义主题颜色。
-- [ ] 增加评论功能。
+- [ ] Configure GitHub Actions for auto-deployment.
+- [ ] Customize theme colors.
+- [ ] Add comment functionality.
 
 ```python
-# 示例代码：Flask 简单认证
+# Example Code: Flask Simple Authentication
 from flask import Flask
 app = Flask(__name__)
 
